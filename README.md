@@ -35,7 +35,8 @@ Farm-flo 是一个农产品电商管理平台，本项目为原作者 [satyam082
 ### 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git
+
+git clone https://github.com/235-1/farm.git
 cd 你的仓库名
 安装依赖
 
